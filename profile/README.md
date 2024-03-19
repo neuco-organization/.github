@@ -1,6 +1,6 @@
 # Bem-vindo à 
 
-![Logo da Empresa](NEUCO_LOGO_3.svg)
+![LOGO NEUCO](assets/NEUCO_LOGO_3.png)
 
 
 
