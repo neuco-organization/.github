@@ -1,6 +1,6 @@
 # Bem-vindo à 
 
-![LOGO NEUCO](assets/NEUCO_LOGO_3.png)
+![LOGO NEUCO](profile/assets/NEUCO_LOGO_3.png)
 
 
 
