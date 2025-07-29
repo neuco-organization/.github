@@ -1,9 +1,5 @@
 # Bem-vindo à 
 
-![LOGO NEUCO](profile/assets/NEUCO_LOGO_3.png)
-
-
-
 ## Sobre a Empresa
 
 A NEUCO é uma empresa de tecnologia que atua no mercado de desenvolvimento de software e consultoria em TI. A empresa foi fundada em 2019 e desde então tem se destacado no mercado devido a sua qualidade e comprometimento com seus clientes. A NEUCO tem como missão ajudar empresas a alcançarem seus objetivos através da tecnologia, oferecendo soluções inovadoras e de qualidade.
